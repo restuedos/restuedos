@@ -4,7 +4,7 @@
 - :cat: Im a Cat person
 - :date: I was born in Cimahi in 2002
 - :bulb: I’m currently learning `nodejs`, `laravel`, `vuejs`, `reactjs` and `flutter`.
-- :pencil2: I love *reading*, *drawing* and *gaming*.
+- :pencil2: I love `reading`, `drawing` and `gaming`.
 
 As Grace Hopper said:
 > I’ve always been more interested
