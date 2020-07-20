@@ -1,5 +1,7 @@
 # Hey!:wave:
 
+- 🌱 I’m currently learning `nodejs`, `laravel`, `vuejs`, `react`, and `flutter`.
+
 <!--
 **edzerostudio/edzerostudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
