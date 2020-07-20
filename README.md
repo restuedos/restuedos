@@ -1,4 +1,5 @@
-### Hi there 👋
+# Restu Edo Setiaji
+### Web Developer
 
 <!--
 **edzerostudio/edzerostudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
