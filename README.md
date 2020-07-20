@@ -1,6 +1,6 @@
 # Hey!:wave:
 
-![Cat](.img/cat.png =480x)
+![Cat](https://www.shareicon.net/data/128x128/2015/08/18/87260_cat_256x256.png)
 
 ### **I'm Web Developer**  
 - :date: I was born in Cimahi in 2002
