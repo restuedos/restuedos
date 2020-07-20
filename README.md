@@ -5,8 +5,13 @@
 ### **I'm Web Developer**  
 - :date: I was born in Cimahi in 2002
 - :cat: Im a Cat person
-- :pencil2: I love `reading`, `drawing` and `gaming`.
-- :bulb: I’m currently learning `nodejs`, `laravel`, `vuejs`, `reactjs` and `flutter`.
+- :pencil2: I love `reading`, `drawing` and `gaming`
+- :bulb: I’m currently learning `nodejs`, `laravel`, `vuejs`, `reactjs` and `flutter`
+- 💬 My Social Media :
+  + [Facebook](http://facebook.com/restu.edo.s)
+  + [Twitter](http://twitter.com/restuedos)
+  + [Instagram](http://instagram.com/restuedos)
+  
 
 As I said:
 > I’ve always been more interested
