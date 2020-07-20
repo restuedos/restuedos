@@ -13,11 +13,11 @@
 [Twitter](http://twitter.com/restuedos) |
 [Instagram](http://instagram.com/restuedos)
   
-
 As I said:
 > I’ve always been more interested
 > in the future than in the past.
 
+Links:
 [<img src="https://www.nesabamedia.com/wp-content/uploads/2019/11/github-logo-1.png" width="36px" height="36px"/>](http://github.com/edzerostudio)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-circle-1868976-1583140.png" width="36px" height="36px"/>](https://www.linkedin.com/in/restu-edo-setiaji-06314b1b0/)
 
