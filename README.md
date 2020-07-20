@@ -1,12 +1,14 @@
 # Hey!:wave:
 
-**I'm Web Developer**  
-- :cat: Im a Cat person
-- :date: I was born in Cimahi in 2002
-- :bulb: I’m currently learning `nodejs`, `laravel`, `vuejs`, `reactjs` and `flutter`.
-- :pencil2: I love `reading`, `drawing` and `gaming`.
+![Cat](.img/cat.png =480x)
 
-As Grace Hopper said:
+### **I'm Web Developer**  
+- :date: I was born in Cimahi in 2002
+- :cat: Im a Cat person
+- :pencil2: I love `reading`, `drawing` and `gaming`.
+- :bulb: I’m currently learning `nodejs`, `laravel`, `vuejs`, `reactjs` and `flutter`.
+
+As I said:
 > I’ve always been more interested
 > in the future than in the past.
 
