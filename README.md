@@ -1,9 +1,9 @@
 # Hello World!:wave:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edzerostudio)](https://github.com/anuraghazra/github-readme-stats)
-![Cat](https://www.shareicon.net/data/128x128/2015/08/18/87260_cat_256x256.png)
 
 ### **I'm Web Developer**  
+![Cat](https://www.shareicon.net/data/128x128/2015/08/18/87260_cat_256x256.png)
 + 📫 I live in Cimahi, Indonesia
 + :date: I was born in Cimahi in 2002
 + :cat: Im a Cat person
