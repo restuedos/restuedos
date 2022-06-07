@@ -1,6 +1,6 @@
 # Hello World!:wave:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=edzerostudio)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=restuedos)](https://github.com/anuraghazra/github-readme-stats)
 
 ### **I'm Web Developer**  
 ![Cat](https://www.shareicon.net/data/128x128/2015/08/18/87260_cat_256x256.png)
@@ -19,7 +19,7 @@ As I said:
 > in the future than in the past.
 
 Links:  
-[<img src="https://www.nesabamedia.com/wp-content/uploads/2019/11/github-logo-1.png" width="36px" height="36px"/>](http://github.com/edzerostudio)
+[<img src="https://www.nesabamedia.com/wp-content/uploads/2019/11/github-logo-1.png" width="36px" height="36px"/>](http://github.com/restuedos)
 [<img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-circle-1868976-1583140.png" width="36px" height="36px"/>](https://www.linkedin.com/in/restu-edo-setiaji-06314b1b0/)
 
 <!--
