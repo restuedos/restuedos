@@ -8,7 +8,7 @@
 + :date: I was born in Cimahi in 2002
 + :cat: Im a Cat person
 + :pencil2: I love `reading`, `drawing` and `gaming`
-+ :bulb: I’m currently learning `nodejs`, `laravel`, `vuejs`, `reactjs` and `flutter`
++ :bulb: I’m currently learning `go` as one of the fastest growing programming language
 + 💬 My Social Media :
 [Facebook](http://facebook.com/restu.edo.s ) |
 [Twitter](http://twitter.com/restuedos) |
