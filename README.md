@@ -1,4 +1,4 @@
-# Hello World!:wave:
+# Hello World! :wave:
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=restuedos)](https://github.com/anuraghazra/github-readme-stats)
