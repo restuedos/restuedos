@@ -11,10 +11,6 @@
 + :cat: Im a Cat person
 + :pencil2: I love `reading`, `drawing` and `gaming`
 + :bulb: I’m currently learning `go` as one of the fastest growing programming language
-+ 💬 My Social Media :
-[Facebook](http://facebook.com/restu.edo.s ) |
-[Twitter](http://twitter.com/restuedos) |
-[Instagram](http://instagram.com/restuedos)
   
 As I said:
 > I’ve always been more interested
@@ -22,7 +18,6 @@ As I said:
 
 Links:  
 [<img src="https://www.nesabamedia.com/wp-content/uploads/2019/11/github-logo-1.png" width="36px" height="36px"/>](http://github.com/restuedos)
-[<img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-circle-1868976-1583140.png" width="36px" height="36px"/>](https://www.linkedin.com/in/restu-edo-setiaji-06314b1b0/)
 
 <!--
 **edzerostudio/edzerostudio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
